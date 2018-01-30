@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-30T10:47:22.468Z</updated>
+  <updated>2018-01-30T11:24:39.734Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>安卓中四大组件之Activity的生命周期</title>
+    <title>安卓四大组件之Activity的生命周期</title>
     <link href="http://yoursite.com/2018/01/29/Android-lifecycle/"/>
     <id>http://yoursite.com/2018/01/29/Android-lifecycle/</id>
     <published>2018-01-29T04:54:09.000Z</published>
-    <updated>2018-01-30T10:47:22.468Z</updated>
+    <updated>2018-01-30T11:24:39.734Z</updated>
     
     <summary type="html">
     
