@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-26T09:33:53.480Z</updated>
+  <updated>2018-01-30T10:47:22.468Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>ImageDemo</title>
-    <link href="http://yoursite.com/2018/01/26/ImageDemo/"/>
-    <id>http://yoursite.com/2018/01/26/ImageDemo/</id>
-    <published>2018-01-26T09:33:07.000Z</published>
-    <updated>2018-01-26T09:33:53.480Z</updated>
+    <title>安卓中四大组件之Activity的生命周期</title>
+    <link href="http://yoursite.com/2018/01/29/Android-lifecycle/"/>
+    <id>http://yoursite.com/2018/01/29/Android-lifecycle/</id>
+    <published>2018-01-29T04:54:09.000Z</published>
+    <updated>2018-01-30T10:47:22.468Z</updated>
     
     <summary type="html">
     
@@ -29,9 +29,32 @@
       
         
         
-          &lt;img
+          &lt;h2 id=&quot;Activity的生命周期&quot;&gt;&lt;a href=&quot;#Activity的生命周期&quot; class=&quot;headerlink&quot; title=&quot;Activity的生命周期&quot;&gt;&lt;/a&gt;Activity的生命周期&lt;/h2&gt;&lt;h3 id=&quot;一-返回栈介绍&quot;&gt;&lt;a
         
       
+    
+    </summary>
+    
+      <category term="Android" scheme="http://yoursite.com/categories/Android/"/>
+    
+    
+      <category term="Android Lifecycle" scheme="http://yoursite.com/tags/Android-Lifecycle/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ImageDemo</title>
+    <link href="http://yoursite.com/2018/01/26/ImageDemo/"/>
+    <id>http://yoursite.com/2018/01/26/ImageDemo/</id>
+    <published>2018-01-26T09:33:07.000Z</published>
+    <updated>2018-01-29T04:57:22.210Z</updated>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2018/01/26/ImageDemo/pic.png&quot;&gt;
+&lt;h1 id=&quot;Markdown-语法和-MWeb-写作使用说明&quot;&gt;&lt;a href=&quot;#Markdown-语法和-MWeb-写作使用说明&quot; class=&quot;headerlink&quot; title=&quot;Markdown 语法和 MWeb 写作使用说明&quot;&gt;&lt;/a&gt;Markdown 语法和 MWeb 写作使用说明&lt;/h1&gt;&lt;h2 id=&quot;Markdown-的设计哲学&quot;&gt;&lt;a href=&quot;#Markdown-的设计哲学&quot; class=&quot;headerlink&quot; title=&quot;Markdown 的设计哲学&quot;&gt;&lt;/a&gt;Markdown 的设计哲学&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;Markdown 的目標是實現「易讀易寫」。&lt;br&gt;不過最需要強調的便是它的可讀性。一份使用 Markdown 格式撰寫的文件應該可以直接以純文字發佈，並且看起來不會像是由許多標籤或是格式指令所構成。&lt;br&gt;Markdown 的語法有個主要的目的：用來作為一種網路內容的&lt;em&gt;寫作&lt;/em&gt;用語言。&lt;/p&gt;
+&lt;/blockquote&gt;
     
     </summary>
     
