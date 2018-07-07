@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-30T17:39:08.246Z</updated>
+  <updated>2018-05-23T14:40:56.359Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Ant风格的URL</title>
+    <link href="http://yoursite.com/2018/05/23/JavaWebAntStyle/"/>
+    <id>http://yoursite.com/2018/05/23/JavaWebAntStyle/</id>
+    <published>2018-05-23T13:02:11.000Z</published>
+    <updated>2018-05-23T14:40:56.359Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Ant风格资源地址支持的3种匹配符&quot;&gt;&lt;a href=&quot;#Ant风格资源地址支持的3种匹配符&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Java" scheme="http://yoursite.com/categories/Java/"/>
+    
+    
+      <category term="AntStyle" scheme="http://yoursite.com/tags/AntStyle/"/>
+    
+      <category term="JavaWeb" scheme="http://yoursite.com/tags/JavaWeb/"/>
+    
+  </entry>
+  
+  <entry>
     <title>安卓四大组件之Activity的生命周期</title>
     <link href="http://yoursite.com/2018/01/29/Android-lifecycle/"/>
     <id>http://yoursite.com/2018/01/29/Android-lifecycle/</id>
     <published>2018-01-29T04:54:09.000Z</published>
-    <updated>2018-01-30T17:39:08.246Z</updated>
+    <updated>2018-05-23T14:19:43.419Z</updated>
     
     <summary type="html">
     
